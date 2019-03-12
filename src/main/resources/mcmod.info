@@ -1,0 +1,16 @@
+[
+{
+  "modid": "nomobfarming",
+  "name": "No Mob Farming",
+  "description": "Prevents mobs from dropping items unless killed by a player",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Laike_Endaril"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
