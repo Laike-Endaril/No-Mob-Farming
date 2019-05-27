@@ -1,1 +1,10 @@
-Config bypass that allows entities to drop items when killed by any living entity, or by anything at all (depending on 2nd argument)
+Filter (entity, damage type, damage type, etc)
+Option for whether filter is whitelist or blacklist
+
+track status effect owners
+
+mode config:
+0: do nothing
+1: prevent items
+2: prevent xp
+3: prevent both (default)
