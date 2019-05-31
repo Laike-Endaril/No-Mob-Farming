@@ -1,6 +1,7 @@
 Filter (entity, damage type, damage type, etc)
 Option for whether filter is whitelist or blacklist
 
+track recent damage
 track status effect owners
 
 mode config:
